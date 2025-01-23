@@ -8,4 +8,4 @@ Gestions des taches
 Resolutions des conflits
 ( A completer)
 Conclusion
-(A completer)
+Merci d'avance pour votre retour, et à bientôt !
