@@ -6,6 +6,6 @@ Communication
 Gestions des taches
 (A completer)
 Resolutions des conflits
-( A completer)
+( Un conflit a été détecté lors d’une tentative de fusion sur GitHub.)
 Conclusion
 (A completer)
