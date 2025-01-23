@@ -8,4 +8,4 @@ Gestions des taches
 Resolutions des conflits
 ( Un conflit a été détecté lors d’une tentative de fusion sur GitHub.)
 Conclusion
-(A completer)
+Merci d'avance pour votre retour, et à bientôt !
