@@ -6,6 +6,6 @@ Communication
 Gestions des taches
 (A completer)
 Resolutions des conflits
-()A completer)
+( A completer)
 Conclusion
 (A completer)
