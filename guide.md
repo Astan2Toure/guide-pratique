@@ -12,4 +12,4 @@ Resolutions des conflits
 Un conflit a été détecté lors d’une tentative de fusion sur GitHub.
 
 Conclusion
-Merci d'avance pour votre retour, et à bientôt !
+Merci d'avance pour votre retour, et à bientôt!
